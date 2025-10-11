@@ -1,19 +1,63 @@
-<h1 align="center">Hi 👋, I'm Abdur Rahman Ayon</h1>
-<h3 align="center">A Software Engineer & Full-Stack Developer from Bangladesh.</h3>
+<!-- PROFILE README FOR ABDUR RAHMAN AYON -->
 
-- 👨‍💻 All of my projects are available at [https://ayondev-portfolio.vercel.app](https://ayondev-portfolio.vercel.app)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=BC83FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Abdur+Rahman+Ayon;Software+Engineer+%26+Full+Stack+Developer;From+Bangladesh" alt="Typing SVG" />
+</h1>
 
-- 📫 How to reach me **abdurrahmanayon66@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🌌 About Me  
+🚀 Passionate **Software Engineer** & **Full-Stack Developer** who loves turning ideas into scalable web apps.  
+💻 Skilled in both frontend and backend with a focus on **clean architecture** & **modern design**.  
+🎯 Currently exploring **system design**, **real-time apps**, and **Next.js 15**.  
+
+- 👨‍💻 Explore all my projects at **[ayondev-portfolio.vercel.app](https://ayondev-portfolio.vercel.app)**
+- 📫 Reach me at **abdurrahmanayon66@gmail.com**
+
+---
+
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="mailto:abdurrahmanayon66@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdurrahmanayon/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ayondev7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayondev7&show_icons=true&locale=en&layout=compact" alt="ayondev7" /></p>
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,postgresql,mongodb,redis,rabbitmq,graphql,git,figma" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayondev7&show_icons=true&locale=en" alt="ayondev7" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayondev7&" alt="ayondev7" /></p>
+### ⚡ GitHub Stats  
+
+<div align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayondev7&show_icons=true&theme=radical&hide_border=true&title_color=ff79c6&icon_color=bc83ff&text_color=fff&bg_color=0d1117" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayondev7&theme=radical&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=bc83ff" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayondev7&layout=compact&theme=radical&hide_border=true&title_color=ff79c6&text_color=fff&bg_color=0d1117" />
+
+</div>
+
+---
+
+### 🌈 Fun Fact  
+> “The best code is the one you don't have to explain twice.”
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <b style="color:#BC83FF;">⭐️ From <a href="https://github.com/ayondev7">AyonDev</a></b>
+</p>
