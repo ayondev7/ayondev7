@@ -21,7 +21,7 @@
   <a href="mailto:abdurrahmanayon66@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/abdurrahmanayon/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdur-rahman-ayon-407289316/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ayondev7" target="_blank">
