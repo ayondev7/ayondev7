@@ -44,9 +44,9 @@
 
  
 
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayondev7&theme=radical&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=bc83ff" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayondev7&theme=radical&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=bc83ff" />
 
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayondev7&layout=compact&theme=radical&hide_border=true&title_color=ff79c6&text_color=fff&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayondev7&layout=compact&theme=radical&hide_border=true&title_color=ff79c6&text_color=fff&bg_color=0d1117" />
 
 </div>
 
