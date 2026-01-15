@@ -9,7 +9,7 @@
 ### 🌌 About Me  
 🚀 Passionate **Software Engineer** & **Full-Stack Developer** who loves turning ideas into scalable web apps.  
 💻 Skilled in both frontend and backend with a focus on **clean architecture** & **modern design**.  
-🎯 Currently exploring **system design**, **real-time apps**, and **Next.js 15**.  
+🎯 Currently exploring **system design** and **real-time apps**.  
 
 - 👨‍💻 Explore all my projects at **[ayondev-portfolio.vercel.app](https://ayondev-portfolio.vercel.app)**
 - 📫 Reach me at **abdurrahmanayon66@gmail.com**
