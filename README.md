@@ -11,7 +11,7 @@
 💻 Skilled in both frontend and backend with a focus on **clean architecture** & **modern design**.  
 🎯 Currently exploring **system design** and **real-time apps**.  
 
-- 👨‍💻 Explore all my projects at **[ayondev-portfolio.vercel.app](https://ayondev7.vercel.app/)**
+- 👨‍💻 Explore all my projects at **[ayondev7.vercel.app](https://ayondev7.vercel.app/)**
 - 📫 Reach me at **abdurrahmanayon66@gmail.com**
 
 ---
